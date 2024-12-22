@@ -1,0 +1,12 @@
+{
+    "name": "stella/e-zaudit",
+    "description": "ezaudit",
+    "autoload": {
+        "psr-4": {
+            "Stella\\EZaudit\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
